@@ -40,6 +40,7 @@ build
 Icon?
 ehthumbs.db
 Thumbs.db
+.*.sw?
 
 # Xcode generated files #
 #########################
